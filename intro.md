@@ -2,4 +2,8 @@
 # This is a fun class!
 # Yodayo!
 
-Pain dayo 
+Pain peko
+
+This is a fun class!
+
+Yodayo!
